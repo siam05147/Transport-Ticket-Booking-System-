@@ -4,7 +4,7 @@
 
 // Include all module files
 #include "admin.c"
-#include "booking.c"
+#include "bookings.c"
 #include "view.c"
 #include "ticket.c"
 
